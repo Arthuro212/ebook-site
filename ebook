@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Como Ganhar Dinheiro Online - Guia para Iniciantes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fefefe;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .hero {
+      background-color: #4B2C3B;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    .hero img {
+      max-width: 300px;
+      border-radius: 8px;
+    }
+    .hero h1 {
+      color: #f9cba0;
+      font-size: 2rem;
+      margin: 1rem 0 0.5rem;
+    }
+    .hero p {
+      color: #f0d8cc;
+      font-size: 1.1rem;
+    }
+    .content {
+      padding: 2rem;
+      max-width: 600px;
+      margin: auto;
+      text-align: center;
+    }
+    .price {
+      font-size: 1.8rem;
+      color: #4B2C3B;
+      margin: 1.5rem 0;
+    }
+    .pix {
+      background-color: #4B2C3B;
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .pix:hover {
+      background-color: #6a3b52;
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <img src="file-UHtsDg8o9fZ4Z47ypRw5vm" alt="Capa do E-book" />
+    <h1>Quer Renda Extra Online? Descubra como!</h1>
+    <p>Guia prático para iniciantes que querem começar a ganhar dinheiro na internet.</p>
+  </section>  <section class="content">
+    <h2>Sobre o E-book</h2>
+    <p>Este guia passo a passo ensina formas reais de ganhar dinheiro online, com ferramentas, plataformas e estratégias que funcionam mesmo para iniciantes.</p><div class="price">Apenas R$20,00</div>
+
+<a class="pix" href="https://wa.me/seunumerodowhatsapp">Comprar via Pix</a>
+
+  </section>
+</body>
+</html>
